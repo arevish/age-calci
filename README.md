@@ -19,7 +19,7 @@ YOU seem to be oldst person alive
 You are more than 100 years old. 
 ~~~
 
-## Senario
+## Scenario
 Take age or year of birth as an input from the user. Store the input in one variable. Your program should detect whether the entered input is AGE or YEAR of birth(DOB) and tell the user when they will turn 100 years old.
 
 ## Instructions to follow
