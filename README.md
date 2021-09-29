@@ -1,6 +1,6 @@
 # Age Calculator    ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
-## Discription
+## Description
 Detect entered value is AGE or in YEAR and tell your age in a particular year in which you asked or when you will be 100.
  Also detect if you born yet or an immortal, living more than over the century.
 
